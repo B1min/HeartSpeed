@@ -43,7 +43,7 @@ public:
    *  @brief Calculate heart rate value
    */
 	int calculateSpeed(void);
-	/*!
+	/*! 
    *  @brief Receive serial data and process
    */
 	static void recv( void *);
@@ -108,3 +108,6 @@ private:
   Contact: 460221531@qq.com
  ******************************************************************************/
  
+
+
+
